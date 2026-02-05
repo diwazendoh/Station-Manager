@@ -1,0 +1,5 @@
+{
+  "name": "Station Manager v1",
+  "description": "A nursing-focused smart journal and station directory (Kardex) that tracks room tasks, IV fluids, and patient monitoring with automated timestamps and smart nursing suggestions.",
+  "requestFramePermissions": []
+}
